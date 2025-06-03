@@ -25,7 +25,7 @@ tagline: The Namesake of Benjamin J. Howard
 # this description might appear in search result lists, keep around 160 characters max
 description: "This is a collection of family photos. Benjamin O. Sword was the paternal great-grandfather of Benjamin J. Howard. He was a beloved husband to Evelyn Krebs and father of Shirley Ayne (a.k.a. Teddy)."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: family history; ancestry; American West; old photos
+keywords: family history; ancestry; American West; old photos; 20th century
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: small-scream
 
@@ -34,7 +34,7 @@ author: small-scream
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-compoundobjects-metadata 
+metadata: benny-o_metadata 
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
