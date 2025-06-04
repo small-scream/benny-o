@@ -3,8 +3,9 @@ Home,/,
 About,/about.html,
 Timeline,/timeline.html,
 Browse,/browse.html,
-Subjects,/subjects.html,Browse
-Locations,/locations.html,Browse
-Data,/data.html,Browse
+Explore
+Subjects,/subjects.html,Explore
+Locations,/locations.html,Explore
+Data,/data.html,Explore
 Contact,/contact.html,
 
