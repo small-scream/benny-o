@@ -30,6 +30,8 @@ She saved many things over the course of her life, and I am grateful to now be i
 
  *Anne Howard*
 
+ {% include feature/image.html objectid="boh003;boh004;boh006" %}
+
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 
