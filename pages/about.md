@@ -24,7 +24,7 @@ I share my name (phonetically, at least) with someone who was really special to 
 
 She saved many things over the course of her life, and I am grateful to now be in possession of some family photos that were precious to her. After digitizing them, I created this site for sharing with you! Thank you for visiting.
 
- This selection of photos was recovered from the personal collection of Ayne Howard (a.k.a. Teddy) after she passed in 2023. Teddy was very dedicate to her parents, and loved her father very much -- so much so that her second grandson (my husband) was named after him. 
+ This selection of photos was recovered from the personal collection of Ayne Howard (a.k.a. Teddy) after she passed in 2023. Teddy was very dedicated to her parents, and loved her father very much -- so much so that her second grandson (my husband) was named after him. 
 
 Some notes:
 - The dates are approximate, with a few exceptions
