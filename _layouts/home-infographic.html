@@ -7,7 +7,8 @@ layout: page
   <div class="col-md-8">
 
     {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" %}
+
+    {% include feature/timelinejs.html %}
     
   </div>
   <div class="col-md-4">  
@@ -18,10 +19,12 @@ layout: page
 
     {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
     
-    {% include index/content.html %}
+    
 
   </div>
   <div class="col-md-12">
+
+    {% include index/content.html %}
 
     {% include index/data-download.html %}
 
