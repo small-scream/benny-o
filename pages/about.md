@@ -20,7 +20,7 @@ padding: 15em
 
 # About The Collection
 
-I share my name (phonetically, at least) with someone who was really special to me: Ayne Howard, my husband's grandmother, who we also called Teddy. 
+I share my name (phonetically) with someone who was really special to me: Ayne Howard, my husband's grandmother, who we also called Teddy. 
 
 She saved many things over the course of her life, and I am grateful to now be in possession of some family photos that were precious to her. After digitizing them, I created this site for sharing with you! Thank you for visiting.
 
